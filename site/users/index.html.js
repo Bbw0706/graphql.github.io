@@ -222,7 +222,7 @@ var logos = [
     link: 'https://www.syzygy.net'
   },
   {
-    name: 'Sale Stock',
+    name: 'SALE STOCK',
     img: 'salestock.png',
     link: 'https://www.salestockindonesia.com'
   },
